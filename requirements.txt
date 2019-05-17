@@ -1,0 +1,4 @@
+pafy==0.5.4
+pandas==0.23.4
+langdetect==1.0.7
+selenium==3.14.1
